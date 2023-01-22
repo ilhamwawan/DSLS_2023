@@ -1,0 +1,239 @@
+﻿ALFKI;Federal Shipping;Sales Representative;Berlin;17
+ALFKI;Speedy Express;Sales Representative;Berlin;137
+ALFKI;United Package;Sales Representative;Berlin;20
+ANATR;Federal Shipping;Owner;México D.F.;45
+ANATR;Speedy Express;Owner;México D.F.;18
+ANTON;Federal Shipping;Owner;México D.F.;121
+ANTON;Speedy Express;Owner;México D.F.;110
+ANTON;United Package;Owner;México D.F.;128
+AROUT;Federal Shipping;Sales Representative;London;181
+AROUT;Speedy Express;Sales Representative;London;50
+AROUT;United Package;Sales Representative;London;419
+BERGS;Federal Shipping;Order Administrator;Luleå;259
+BERGS;Speedy Express;Order Administrator;Luleå;198
+BERGS;United Package;Order Administrator;Luleå;544
+BLAUS;Federal Shipping;Sales Representative;Mannheim;75
+BLAUS;Speedy Express;Sales Representative;Mannheim;3
+BLAUS;United Package;Sales Representative;Mannheim;62
+BLONP;Federal Shipping;Marketing Manager;Strasbourg;175
+BLONP;Speedy Express;Marketing Manager;Strasbourg;243
+BLONP;United Package;Marketing Manager;Strasbourg;248
+BOLID;Speedy Express;Owner;Madrid;40
+BOLID;United Package;Owner;Madrid;150
+BONAP;Federal Shipping;Owner;Marseille;251
+BONAP;Speedy Express;Owner;Marseille;288
+BONAP;United Package;Owner;Marseille;441
+BOTTM;Federal Shipping;Accounting Manager;Tsawassen;546
+BOTTM;Speedy Express;Accounting Manager;Tsawassen;160
+BOTTM;United Package;Accounting Manager;Tsawassen;250
+BSBEV;Federal Shipping;Sales Representative;London;204
+BSBEV;United Package;Sales Representative;London;89
+CACTU;Federal Shipping;Sales Agent;Buenos Aires;56
+CACTU;Speedy Express;Sales Agent;Buenos Aires;40
+CACTU;United Package;Sales Agent;Buenos Aires;19
+CENTC;Federal Shipping;Marketing Manager;México D.F.;11
+CHOPS;Federal Shipping;Owner;Bern;149
+CHOPS;Speedy Express;Owner;Bern;134
+CHOPS;United Package;Owner;Bern;182
+COMMI;Speedy Express;Sales Associate;Sao Paulo;94
+COMMI;United Package;Sales Associate;Sao Paulo;39
+CONSH;Speedy Express;Sales Representative;London;22
+CONSH;United Package;Sales Representative;London;65
+DRACD;Federal Shipping;Order Administrator;Aachen;99
+DRACD;Speedy Express;Order Administrator;Aachen;32
+DRACD;United Package;Order Administrator;Aachen;29
+DUMON;Federal Shipping;Owner;Nantes;13
+DUMON;Speedy Express;Owner;Nantes;48
+DUMON;United Package;Owner;Nantes;19
+EASTC;Federal Shipping;Sales Agent;London;180
+EASTC;Speedy Express;Sales Agent;London;264
+EASTC;United Package;Sales Agent;London;125
+ERNSH;Federal Shipping;Sales Manager;Graz;1414
+ERNSH;Speedy Express;Sales Manager;Graz;1670
+ERNSH;United Package;Sales Manager;Graz;1459
+FAMIA;Federal Shipping;Marketing Assistant;Sao Paulo;270
+FAMIA;Speedy Express;Marketing Assistant;Sao Paulo;50
+FAMIA;United Package;Marketing Assistant;Sao Paulo;37
+FOLIG;Federal Shipping;Assistant Sales Agent;Lille;168
+FOLIG;Speedy Express;Assistant Sales Agent;Lille;51
+FOLIG;United Package;Assistant Sales Agent;Lille;135
+FOLKO;Federal Shipping;Owner;Bräcke;241
+FOLKO;Speedy Express;Owner;Bräcke;656
+FOLKO;United Package;Owner;Bräcke;337
+FRANK;Federal Shipping;Marketing Manager;München;404
+FRANK;Speedy Express;Marketing Manager;München;536
+FRANK;United Package;Marketing Manager;München;585
+FRANR;Federal Shipping;Marketing Manager;Nantes;23
+FRANR;Speedy Express;Marketing Manager;Nantes;32
+FRANR;United Package;Marketing Manager;Nantes;14
+FRANS;Speedy Express;Sales Representative;Torino;40
+FRANS;United Package;Sales Representative;Torino;14
+FURIB;Federal Shipping;Sales Manager;Lisboa;264
+FURIB;Speedy Express;Sales Manager;Lisboa;16
+FURIB;United Package;Sales Manager;Lisboa;69
+GALED;Federal Shipping;Marketing Manager;Barcelona;10
+GALED;Speedy Express;Marketing Manager;Barcelona;22
+GALED;United Package;Marketing Manager;Barcelona;10
+GODOS;Federal Shipping;Sales Manager;Sevilla;116
+GODOS;Speedy Express;Sales Manager;Sevilla;80
+GODOS;United Package;Sales Manager;Sevilla;199
+GOURL;Federal Shipping;Sales Associate;Campinas;177
+GOURL;Speedy Express;Sales Associate;Campinas;37
+GOURL;United Package;Sales Associate;Campinas;101
+GREAL;Federal Shipping;Marketing Manager;Eugene;105
+GREAL;Speedy Express;Marketing Manager;Eugene;37
+GREAL;United Package;Marketing Manager;Eugene;203
+GROSR;Federal Shipping;Owner;Caracas;34
+HANAR;Federal Shipping;Accounting Manager;Rio de Janeiro;146
+HANAR;Speedy Express;Accounting Manager;Rio de Janeiro;391
+HANAR;United Package;Accounting Manager;Rio de Janeiro;302
+HILAA;Federal Shipping;Sales Representative;San Cristóbal;138
+HILAA;Speedy Express;Sales Representative;San Cristóbal;453
+HILAA;United Package;Sales Representative;San Cristóbal;505
+HUNGC;Federal Shipping;Sales Representative;Elgin;20
+HUNGC;Speedy Express;Sales Representative;Elgin;77
+HUNGC;United Package;Sales Representative;Elgin;25
+HUNGO;Federal Shipping;Sales Associate;Cork;576
+HUNGO;Speedy Express;Sales Associate;Cork;290
+HUNGO;United Package;Sales Associate;Cork;818
+ISLAT;Federal Shipping;Marketing Manager;Cowes;56
+ISLAT;Speedy Express;Marketing Manager;Cowes;73
+ISLAT;United Package;Marketing Manager;Cowes;166
+KOENE;Federal Shipping;Sales Associate;Brandenburg;314
+KOENE;Speedy Express;Sales Associate;Brandenburg;108
+KOENE;United Package;Sales Associate;Brandenburg;481
+LACOR;Speedy Express;Sales Representative;Versailles;49
+LACOR;United Package;Sales Representative;Versailles;34
+LAMAI;Federal Shipping;Sales Manager;Toulouse;139
+LAMAI;Speedy Express;Sales Manager;Toulouse;130
+LAMAI;United Package;Sales Manager;Toulouse;173
+LAUGB;Federal Shipping;Marketing Assistant;Vancouver;62
+LAZYK;Federal Shipping;Marketing Manager;Walla Walla;10
+LAZYK;United Package;Marketing Manager;Walla Walla;10
+LEHMS;Federal Shipping;Sales Representative;Frankfurt a.M.;20
+LEHMS;Speedy Express;Sales Representative;Frankfurt a.M.;443
+LEHMS;United Package;Sales Representative;Frankfurt a.M.;331
+LETSS;United Package;Owner;San Francisco;181
+LILAS;Federal Shipping;Accounting Manager;Barquisimeto;280
+LILAS;Speedy Express;Accounting Manager;Barquisimeto;231
+LILAS;United Package;Accounting Manager;Barquisimeto;325
+LINOD;Federal Shipping;Owner;I. de Margarita;227
+LINOD;Speedy Express;Owner;I. de Margarita;397
+LINOD;United Package;Owner;I. de Margarita;346
+LONEP;Federal Shipping;Sales Manager;Portland;8
+LONEP;Speedy Express;Sales Manager;Portland;37
+LONEP;United Package;Sales Manager;Portland;89
+MAGAA;Federal Shipping;Marketing Manager;Bergamo;170
+MAGAA;Speedy Express;Marketing Manager;Bergamo;118
+MAGAA;United Package;Marketing Manager;Bergamo;145
+MAISD;Federal Shipping;Sales Agent;Bruxelles;66
+MAISD;Speedy Express;Sales Agent;Bruxelles;94
+MAISD;United Package;Sales Agent;Bruxelles;160
+MEREP;Federal Shipping;Marketing Assistant;Montréal;307
+MEREP;Speedy Express;Marketing Assistant;Montréal;105
+MEREP;United Package;Marketing Assistant;Montréal;554
+MORGK;Federal Shipping;Marketing Assistant;Leipzig;44
+MORGK;Speedy Express;Marketing Assistant;Leipzig;88
+MORGK;United Package;Marketing Assistant;Leipzig;40
+NORTS;Federal Shipping;Sales Associate;London;30
+OCEAN;Speedy Express;Sales Agent;Buenos Aires;26
+OCEAN;United Package;Sales Agent;Buenos Aires;106
+OLDWO;Federal Shipping;Sales Representative;Anchorage;253
+OLDWO;Speedy Express;Sales Representative;Anchorage;246
+OLDWO;United Package;Sales Representative;Anchorage;104
+OTTIK;Federal Shipping;Owner;Köln;134
+OTTIK;Speedy Express;Owner;Köln;307
+OTTIK;United Package;Owner;Köln;198
+PERIC;Federal Shipping;Sales Representative;México D.F.;60
+PERIC;Speedy Express;Sales Representative;México D.F.;57
+PERIC;United Package;Sales Representative;México D.F.;91
+PICCO;Federal Shipping;Sales Manager;Salzburg;179
+PICCO;Speedy Express;Sales Manager;Salzburg;127
+PICCO;United Package;Sales Manager;Salzburg;318
+PRINI;Federal Shipping;Sales Representative;Lisboa;28
+PRINI;Speedy Express;Sales Representative;Lisboa;28
+PRINI;United Package;Sales Representative;Lisboa;128
+QUEDE;Speedy Express;Accounting Manager;Rio de Janeiro;229
+QUEDE;United Package;Accounting Manager;Rio de Janeiro;165
+QUEEN;Speedy Express;Marketing Assistant;Sao Paulo;512
+QUEEN;United Package;Marketing Assistant;Sao Paulo;519
+QUICK;Federal Shipping;Accounting Manager;Cunewalde;1130
+QUICK;Speedy Express;Accounting Manager;Cunewalde;1795
+QUICK;United Package;Accounting Manager;Cunewalde;1036
+RANCH;Federal Shipping;Sales Representative;Buenos Aires;5
+RANCH;Speedy Express;Sales Representative;Buenos Aires;7
+RANCH;United Package;Sales Representative;Buenos Aires;80
+RATTC;Federal Shipping;Assistant Sales Representative;Albuquerque;584
+RATTC;Speedy Express;Assistant Sales Representative;Albuquerque;304
+RATTC;United Package;Assistant Sales Representative;Albuquerque;495
+REGGC;Federal Shipping;Sales Associate;Reggio Emilia;28
+REGGC;Speedy Express;Sales Associate;Reggio Emilia;201
+REGGC;United Package;Sales Associate;Reggio Emilia;106
+RICAR;Federal Shipping;Assistant Sales Agent;Rio de Janeiro;113
+RICAR;Speedy Express;Assistant Sales Agent;Rio de Janeiro;169
+RICAR;United Package;Assistant Sales Agent;Rio de Janeiro;378
+RICSU;Federal Shipping;Sales Manager;Genève;413
+RICSU;Speedy Express;Sales Manager;Genève;86
+RICSU;United Package;Sales Manager;Genève;311
+ROMEY;Federal Shipping;Accounting Manager;Madrid;25
+ROMEY;Speedy Express;Accounting Manager;Madrid;55
+ROMEY;United Package;Accounting Manager;Madrid;11
+SANTG;Federal Shipping;Owner;Stavern;8
+SANTG;Speedy Express;Owner;Stavern;13
+SANTG;United Package;Owner;Stavern;140
+SAVEA;Federal Shipping;Sales Representative;Boise;1504
+SAVEA;Speedy Express;Sales Representative;Boise;1717
+SAVEA;United Package;Sales Representative;Boise;1737
+SEVES;Federal Shipping;Sales Manager;London;313
+SEVES;Speedy Express;Sales Manager;London;293
+SEVES;United Package;Sales Manager;London;212
+SIMOB;Federal Shipping;Owner;Kobenhavn;190
+SIMOB;Speedy Express;Owner;Kobenhavn;54
+SIMOB;United Package;Owner;Kobenhavn;134
+SPECD;Federal Shipping;Marketing Manager;Paris;14
+SPECD;Speedy Express;Marketing Manager;Paris;3
+SPECD;United Package;Marketing Manager;Paris;31
+SPLIR;Federal Shipping;Sales Manager;Lander;10
+SPLIR;Speedy Express;Sales Manager;Lander;50
+SPLIR;United Package;Sales Manager;Lander;267
+SUPRD;Federal Shipping;Accounting Manager;Charleroi;492
+SUPRD;Speedy Express;Accounting Manager;Charleroi;137
+SUPRD;United Package;Accounting Manager;Charleroi;443
+THEBI;Federal Shipping;Marketing Manager;Portland;22
+THEBI;United Package;Marketing Manager;Portland;24
+THECR;Federal Shipping;Marketing Assistant;Butte;24
+THECR;Speedy Express;Marketing Assistant;Butte;9
+THECR;United Package;Marketing Assistant;Butte;26
+TOMSP;Speedy Express;Marketing Manager;Münster;99
+TOMSP;United Package;Marketing Manager;Münster;154
+TORTU;Federal Shipping;Owner;México D.F.;213
+TORTU;United Package;Owner;México D.F.;171
+TRADH;Federal Shipping;Sales Representative;Sao Paulo;123
+TRADH;United Package;Sales Representative;Sao Paulo;128
+TRAIH;Federal Shipping;Sales Associate;Kirkland;9
+TRAIH;United Package;Sales Associate;Kirkland;80
+VAFFE;Federal Shipping;Sales Manager;Århus;351
+VAFFE;Speedy Express;Sales Manager;Århus;254
+VAFFE;United Package;Sales Manager;Århus;187
+VICTE;Federal Shipping;Sales Agent;Lyon;178
+VICTE;Speedy Express;Sales Agent;Lyon;95
+VICTE;United Package;Sales Agent;Lyon;161
+VINET;Federal Shipping;Accounting Manager;Reims;51
+VINET;Speedy Express;Accounting Manager;Reims;27
+VINET;United Package;Accounting Manager;Reims;20
+WANDK;Speedy Express;Sales Representative;Stuttgart;190
+WANDK;United Package;Sales Representative;Stuttgart;302
+WARTH;Federal Shipping;Accounting Manager;Oulu;240
+WARTH;Speedy Express;Accounting Manager;Oulu;171
+WARTH;United Package;Accounting Manager;Oulu;326
+WELLI;Federal Shipping;Sales Manager;Resende;33
+WELLI;Speedy Express;Sales Manager;Resende;139
+WELLI;United Package;Sales Manager;Resende;95
+WHITC;Federal Shipping;Owner;Seattle;348
+WHITC;Speedy Express;Owner;Seattle;231
+WHITC;United Package;Owner;Seattle;484
+WILMK;Federal Shipping;Owner/Marketing Assistant;Helsinki;64
+WILMK;Speedy Express;Owner/Marketing Assistant;Helsinki;84
+WOLZA;Federal Shipping;Owner;Warszawa;93
+WOLZA;Speedy Express;Owner;Warszawa;12
+WOLZA;United Package;Owner;Warszawa;100
